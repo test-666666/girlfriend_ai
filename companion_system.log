@@ -1,0 +1,209 @@
+2025-01-31 20:11:20,813 - __main__ - INFO - 正在初始化智能对话系统...
+2025-01-31 20:11:56,750 - __main__ - INFO - 生成耗时：19.14s
+2025-01-31 20:13:16,514 - __main__ - INFO - 生成耗时：30.86s
+2025-01-31 20:15:13,240 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:31:18,224 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:31:24,147 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:36:34,873 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:36:43,722 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:37:46,578 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:37:51,733 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:42:46,915 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:49:46,693 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:49:56,066 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:49:59,535 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:54:34,069 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:54:42,515 - __main__ - INFO - 系统安全关闭
+2025-02-02 19:56:56,742 - __main__ - INFO - 正在初始化智能对话系统...
+2025-02-02 19:57:04,441 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:01:22,183 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:01:50,873 - __main__ - INFO - 生成耗时：10.72s
+2025-02-02 20:03:10,195 - __main__ - INFO - 生成耗时：4.39s
+2025-02-02 20:03:53,887 - __main__ - INFO - 生成耗时：29.32s
+2025-02-02 20:03:59,278 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:04:55,807 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:05:31,342 - __main__ - INFO - 生成耗时：29.65s
+2025-02-02 20:06:05,432 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:07:35,124 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:08:00,992 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:08:24,738 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:09:07,988 - __main__ - INFO - 生成耗时：28.89s
+2025-02-02 20:10:24,841 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:10:55,447 - __main__ - ERROR - 更新失败: string indices must be integers, not 'str'
+2025-02-02 20:10:55,454 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:11:11,248 - __main__ - INFO - 生成耗时：18.76s
+2025-02-02 20:11:18,391 - __main__ - ERROR - 更新失败: string indices must be integers, not 'str'
+2025-02-02 20:11:46,592 - __main__ - INFO - 生成耗时：6.21s
+2025-02-02 20:12:02,130 - __main__ - INFO - 生成耗时：4.67s
+2025-02-02 20:12:19,302 - __main__ - INFO - 生成耗时：4.92s
+2025-02-02 20:13:05,734 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:13:41,100 - __main__ - ERROR - 更新失败: string indices must be integers, not 'str'
+2025-02-02 20:13:41,109 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:13:52,751 - __main__ - INFO - 生成耗时：60.70s
+2025-02-02 20:14:00,606 - __main__ - ERROR - 更新失败: string indices must be integers, not 'str'
+2025-02-02 20:14:47,376 - __main__ - INFO - 生成耗时：8.65s
+2025-02-02 20:17:34,989 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:23:34,856 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:23:38,416 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:26:28,521 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:26:32,233 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:27:09,142 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:27:13,458 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:28:44,348 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:29:11,224 - __main__ - INFO - 生成耗时：14.52s
+2025-02-02 20:30:36,964 - __main__ - INFO - 生成耗时：3.95s
+2025-02-02 20:31:05,188 - __main__ - INFO - 生成耗时：15.66s
+2025-02-02 20:33:00,517 - __main__ - INFO - 生成耗时：23.86s
+2025-02-02 20:33:42,000 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:35:05,216 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:36:01,033 - __main__ - INFO - 生成耗时：29.81s
+2025-02-02 20:37:34,530 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:37:44,514 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:38:04,418 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:39:28,245 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:39:39,703 - __main__ - INFO - 生成耗时：3.56s
+2025-02-02 20:40:01,915 - __main__ - INFO - 生成耗时：2.12s
+2025-02-02 20:46:56,736 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:46:56,737 - __main__ - INFO - 开始增量训练，数据量：9训练/1验证
+2025-02-02 20:47:37,068 - __main__ - ERROR - 热更新失败：string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 324, in _perform_update
+    self.training_engine.execute_training(train_data, val_data)
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 187, in execute_training
+    train_dataset = self._preprocess_data(train_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 184, in _preprocess_data
+    return Dataset.from_list(dataset).map(formatting_func, batched=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3476, in _map_single
+    batch = apply_function_on_filtered_inputs(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3338, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 165, in formatting_func
+    inputs = [f"【对话】{ex['input']}" for ex in examples]
+                         ~~^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-02-02 20:47:37,109 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:47:37,110 - __main__ - INFO - 开始增量训练，数据量：9训练/1验证
+2025-02-02 20:48:06,313 - __main__ - ERROR - 热更新失败：string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 324, in _perform_update
+    self.training_engine.execute_training(train_data, val_data)
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 187, in execute_training
+    train_dataset = self._preprocess_data(train_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 184, in _preprocess_data
+    return Dataset.from_list(dataset).map(formatting_func, batched=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3476, in _map_single
+    batch = apply_function_on_filtered_inputs(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3338, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 165, in formatting_func
+    inputs = [f"【对话】{ex['input']}" for ex in examples]
+                         ~~^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-02-02 20:48:06,325 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:48:06,326 - __main__ - INFO - 开始增量训练，数据量：9训练/1验证
+2025-02-02 20:48:22,729 - __main__ - ERROR - 热更新失败：string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 324, in _perform_update
+    self.training_engine.execute_training(train_data, val_data)
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 187, in execute_training
+    train_dataset = self._preprocess_data(train_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 184, in _preprocess_data
+    return Dataset.from_list(dataset).map(formatting_func, batched=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3476, in _map_single
+    batch = apply_function_on_filtered_inputs(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3338, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 165, in formatting_func
+    inputs = [f"【对话】{ex['input']}" for ex in examples]
+                         ~~^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-02-02 20:48:37,755 - __main__ - INFO - 生成耗时：7.21s
+2025-02-02 20:49:31,231 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:50:24,011 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:50:49,957 - __main__ - INFO - 生成耗时：8.11s
+2025-02-02 20:52:55,947 - __main__ - INFO - 系统安全关闭
+2025-02-02 20:53:05,680 - __main__ - INFO - 正在初始化系统...
+2025-02-02 20:53:32,155 - __main__ - INFO - 生成耗时：13.31s
+2025-02-02 20:54:24,309 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:54:24,310 - __main__ - INFO - 开始增量训练，数据量：9训练/1验证
+2025-02-02 20:54:26,845 - __main__ - INFO - 生成耗时：12.10s
+2025-02-02 20:54:55,569 - __main__ - ERROR - 热更新失败：string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 326, in _perform_update
+    self.training_engine.execute_training(train_data, val_data)
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 188, in execute_training
+    train_dataset = self._preprocess_data(train_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 185, in _preprocess_data
+    return Dataset.from_list(dataset).map(formatting_func, batched=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3476, in _map_single
+    batch = apply_function_on_filtered_inputs(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3338, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 166, in formatting_func
+    inputs = [f"【对话】{ex['input']}" for ex in examples]
+                         ~~^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2025-02-02 20:54:55,595 - __main__ - INFO - 触发模型热更新...
+2025-02-02 20:54:55,596 - __main__ - INFO - 开始增量训练，数据量：9训练/1验证
+2025-02-02 20:54:59,312 - __main__ - INFO - 生成耗时：17.73s
+2025-02-02 20:55:22,417 - __main__ - ERROR - 热更新失败：string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 326, in _perform_update
+    self.training_engine.execute_training(train_data, val_data)
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 188, in execute_training
+    train_dataset = self._preprocess_data(train_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 185, in _preprocess_data
+    return Dataset.from_list(dataset).map(formatting_func, batched=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 560, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3073, in map
+    for rank, done, content in Dataset._map_single(**dataset_kwargs):
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3476, in _map_single
+    batch = apply_function_on_filtered_inputs(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\AppData\Local\Programs\Python\Python312\Lib\site-packages\datasets\arrow_dataset.py", line 3338, in apply_function_on_filtered_inputs
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jiale\Desktop\girlfriend_ai\ai.py", line 166, in formatting_func
+    inputs = [f"【对话】{ex['input']}" for ex in examples]
+                         ~~^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
